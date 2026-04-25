@@ -1,0 +1,22 @@
+.claude/
+.ipynb_checkpoints/
+__pycache__/
+venv/
+env/
+.venv/
+
+submissions/
+notebooks/competition.ipynb
+
+Google Trend/
+
+Global Commodity Price/*
+!Global Commodity Price/Crude Oil WTI Futures Historical Data.csv
+
+Mata Uang/*
+!Mata Uang/USDIDR=X.csv
+
+Harga Bahan Pangan/*
+!Harga Bahan Pangan/train/
+Harga Bahan Pangan/train/*
+!Harga Bahan Pangan/train/Minyak Goreng Curah.csv
