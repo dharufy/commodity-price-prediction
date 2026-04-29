@@ -2,14 +2,6 @@
 
 Decision-support notebook for a procurement manager: under current market conditions, is it better to lock in today's cooking oil price or wait 30 days?
 
-## Shipped Scope
-
-This repository ships the portfolio notebook only:
-
-```text
-notebooks/main_project.ipynb
-```
-
 It focuses on a single commodity:
 - Commodity: Minyak Goreng Curah (bulk cooking oil)
 - Market: DKI Jakarta
